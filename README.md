@@ -1,3 +1,3 @@
 # powerbiarcher
-Author : Samuel Andrade Pimenta
+Author : Samuel Andrade Pimenta \n
 Company: Athena Soluções Inteligentes
