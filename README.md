@@ -1,7 +1,5 @@
-<!--
-## Archer x PowerBI - Via RestAPI
-Author : Samuel Andrade Pimenta \n
-Company: Athena Soluções Inteligentes
 
-## Hi there 👋
--->
+## Archer x PowerBI - Via RestAPI
+- Author : Samuel Andrade Pimenta
+- Company: Athena Soluções Inteligentes
+
